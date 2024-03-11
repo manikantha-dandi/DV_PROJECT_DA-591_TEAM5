@@ -10,8 +10,9 @@ Files:
 
 Team5_DV_Project.R :  This R script contains the Shiny application code for visualizing AQI trends, generating plots, and analyzing the data.
 
-city_day.csv : The dataset used for this project, containing air quality data for different cities.
+Dataset: Th csv file named "city_day.csv" included in the google drive:
 
+Google drive link: https://drive.google.com/file/d/1cfolpyTFjIHLkv_VN3Ylt6ZpzJhLdA9V/view?usp=sharing
 
 About the Application:
 
